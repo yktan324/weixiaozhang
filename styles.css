@@ -1,0 +1,24 @@
+/* unvisited link */
+a:link {
+  color: Orange;
+}
+
+/* visited link */
+a:visited {
+  color: AliceBlue;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+body {
+  background-image: url("123.jpeg");
+  background-size: 2000px 3000px;
+  background-repeat: no-repeat;
+}
